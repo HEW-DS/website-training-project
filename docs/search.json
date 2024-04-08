@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "my-notes-2024-04-08.html",
+    "href": "my-notes-2024-04-08.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Notes\n\nInstalled VS code"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site # CONTENT CONTENT CONTENT CONTENT"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Page Title: Homepage",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nThis is a space in which I will be practicing the creation of a basic website."
+  }
+]
