@@ -6,4 +6,13 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-This is a space in which I will be practicing the creation of a basic website.
+ This is a space in which I will be practicing the creation of a basic website. oooooo
+
+![This is not a cat](img/Caterpillar.jpg)
+
+
+
+
+
+
+
